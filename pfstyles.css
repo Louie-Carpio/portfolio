@@ -188,6 +188,7 @@
     width: 140px;
     height: 30px;
     font-size: 1.7rem;
+    border-radius: 5%;
     cursor: pointer;
   }
   
