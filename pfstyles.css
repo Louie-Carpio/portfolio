@@ -281,27 +281,28 @@
     }
 
     .welcome p{
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
 
     #projects h1{
-      font-size: 1.5rem;
+      font-size: 1.3rem;
       margin-top: 20px;
       margin-bottom: 0;
     }
 
     .project-tile{
-      height: 300px;
-      width: 400px;
+      height: 280px;
+      width: 350px;
     }
 
     .project-container{
-      height: 1250px;
+      height: 1200px;
       padding: 0;
+      margin: 0;
     }
 
     #projects{
-      height: 1500px;
+      height: 1350px;
     }
 
     .project-name{
@@ -314,16 +315,19 @@
     }
 
     button{
-      padding: 10px;
+      padding: 5px;
       font-size: 1rem;
     }
 
+    .contacts{
+      height: 400px;
+    }
     .contact-title{
-      font-size: 3rem;
+      font-size: 2.5rem;
     }
     
     .contact-sub{
-      font-size: 1rem;
+      font-size: 0.7rem;
     }
 
     .socials{
@@ -333,7 +337,7 @@
     }
 
     .soctitle{
-      font-size: 1.2rem;
+      font-size: 1.1rem;
 
     }
 
@@ -344,6 +348,7 @@
     .copyright{
       font-size: 1rem;
     }
+  
   }
 
 
